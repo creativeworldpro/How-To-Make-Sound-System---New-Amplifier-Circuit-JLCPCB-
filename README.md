@@ -19,39 +19,31 @@ First we will introduce with those electronics components.
 Component List :
 
 1. Transistor – 2SA 1943
-2. 
-    Transistor – BD 139
+   Transistor – BD 139
     
 2. Heat Sink
-3. 
-4. Screw
-5. 
-6. Volume – B 100K
-7. 
-8. Resistor – 10 KΩ
-9. 
+3. Screw
+4. Volume – B 100K
+5. Resistor – 10 KΩ
               47 KΩ
               680 Ω
              0.47 Ω (5 watt)
-             1.
 6. Capacitor - 220µf/ 16v
-7. 
-8. Audio Input Cable
-9. 
-10. Power – DC 12v
-11. 
-12. Sound Speaker
+7. Audio Input Cable
+8. Power – DC 12v
+9. Sound Speaker
 
 
 Transistor Pinout – 
 
 2SA 1943 – 
+
 It is a PNP transistor. As usual the transistor 2SA 1943 also contain 3 leg & this 3 leg’s also have 3 different names. If we count it’s leg from left side, then 1no “Base”. 2no “Collector” & 3no “Emitter”
 
 
 BD 139 - 
-It is an NPN transistor. As usual the transistor BD 139 also contain 3 leg & this 3 leg’s also have 3 different names. If we count it’s leg from left side, then 1no “Emitter”. 2no “Collector” & 3no “Base”
 
+It is an NPN transistor. As usual the transistor BD 139 also contain 3 leg & this 3 leg’s also have 3 different names. If we count it’s leg from left side, then 1no “Emitter”. 2no “Collector” & 3no “Base”
 
 
 Circuit Connection -   
